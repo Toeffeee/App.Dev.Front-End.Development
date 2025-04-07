@@ -1,0 +1,40 @@
+body {
+    background-color: grey;
+}
+
+.nav-bar {
+    background-color: black;
+    color: #ffffff;
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+}
+
+.nav-bar a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    height: 50%;
+    width: 40%;
+    display: block;
+    padding-top: 60px;
+    margin: auto;
+}
+
+.button {
+    padding: 50px;
+    text-align: center;
+}
+
+button {
+    color: white;
+    background-color: black;
+    font-size: 18px;
+}
